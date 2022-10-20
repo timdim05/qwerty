@@ -1,0 +1,19 @@
+p{
+    color: rgb(255, 251, 0);
+}
+h1{
+    color: blue;
+}
+div {
+    background-color: red;
+    width: 300px;
+    height: 300px;
+}
+.box-1 {
+    background-color: blue;
+
+}
+.box-2 {
+    width: 450px;
+    background-color: aquamarine;
+}
